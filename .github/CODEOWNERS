@@ -1,0 +1,19 @@
+# Key management
+/modules/AlphaWalletFoundation/AlphaWalletFoundation/KeyManagement/ @hboon
+HDWallet+Extension.swift @hboon
+
+# Key backup
+BackupSeedPhraseCoordinator.swift @hboon
+ShowSeedPhraseViewController.swift @hboon
+ShowSeedPhraseViewModel.swift @hboon
+
+# Dapp browser related
+BrowserViewController.swift @hboon
+WKWebViewConfiguration.swift @hboon
+
+# Others
+
+/modules/AlphaWalletFoundation/AlphaWalletFoundation/Initializers/ @hboon
+/modules/AlphaWalletFoundation/AlphaWalletFoundation/Settings/Types/Constants+Credentials.swift @hboon
+/modules/AlphaWalletFoundation/AlphaWalletFoundation/EtherClient/TransactionSigning.swift @hboon
+/modules/AlphaWalletWeb3/AlphaWalletWeb3/Utils/Web3+Utils.swift @hboon

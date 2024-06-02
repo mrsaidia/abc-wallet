@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "logo_no_bg@3x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
